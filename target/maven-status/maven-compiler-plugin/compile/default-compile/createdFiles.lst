@@ -1,0 +1,12 @@
+market\Payment.class
+market\config\kafka\KafkaProcessor.class
+market\PaymentController.class
+market\Reserved.class
+market\Paid.class
+market\PaymentRepository.class
+market\PolicyHandler.class
+market\Application.class
+market\ReservationCanceled.class
+market\external\Product.class
+market\external\ProductService.class
+market\AbstractEvent.class
